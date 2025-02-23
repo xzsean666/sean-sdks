@@ -1,5 +1,8 @@
 export const rpcs = {
   bsc: "https://bsc-mainnet.nodereal.io/v1/aff09ffcae0a40ae80cd7fe3d1a9cf35",
+  testbnb:
+    "https://bsc-testnet.nodereal.io/v1/aff09ffcae0a40ae80cd7fe3d1a9cf35",
+
   minato:
     "https://soneium-minato.rpc.scs.startale.com?apikey=iFYLiG7ROGg2KSst6bS7gRBIPV7rNtei",
   optimism:
